@@ -35,7 +35,7 @@ subtitle = ""
   description = "A2"
   
 [[feature]]
-  icon = "Adobe"
+  icon = "fa-adobe"
   icon_pack = "emoji"
   name = "Adobe Photoshop"
 #  description = "A2"
