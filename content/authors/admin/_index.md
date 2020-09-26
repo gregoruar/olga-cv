@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Junior Graphic Designer
+role: Junior graphic designer
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Junior Graphic Designer
+bio: Junior graphic designer
 
 interests:
 - Intuitive graphics
