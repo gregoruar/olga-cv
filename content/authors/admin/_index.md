@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Junior Graphical Designer
+role: Junior Graphic Designer
 
 # Organizations/Affiliations
 organizations:
