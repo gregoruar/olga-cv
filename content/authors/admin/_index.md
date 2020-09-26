@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: "oa.sukhorukova@gmail.com"
+email: "oa.sukhorukova@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,6 +70,6 @@ social:
 #- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a junior designer from Moscow. Moscow is my hometown, but now I live in Bordeaux.
+A couple of years ago I graduated from the Faculty of Pharmacy, worked for 1 year in the Department of Registration and Quality, and now I am learning new things - drawing, typesetting. 
+Design for me is beauty and benefit in one. My values are freedom, honesty and discovery, that is why my works are fresh, colourful and charming.
