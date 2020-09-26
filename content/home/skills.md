@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = :fr:
+  icon = ":fr:"
   icon_pack = "emoji"
   name = "French"
   description = "A2"
