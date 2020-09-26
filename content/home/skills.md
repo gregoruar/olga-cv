@@ -14,6 +14,20 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
+
+  
+[[feature]]
+  icon = ":ru:"
+  icon_pack = "emoji"
+  name = "Russian"
+  description = "Native"
+  
+[[feature]]
+  icon = ":gb:"
+  icon_pack = "emoji"
+  name = "English"
+  description = "B2"  
+
 [[feature]]
   icon = ":fr:"
   icon_pack = "emoji"
@@ -21,16 +35,16 @@ subtitle = ""
   description = "A2"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "Adobe"
+  icon_pack = "emoji"
+  name = "Adobe Photoshop"
+#  description = "A2"
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "figma"
+  icon_pack = "fab"
+  name = "Figma"
+#  description = "10%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
